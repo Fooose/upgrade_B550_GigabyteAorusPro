@@ -5,17 +5,19 @@ Welcome to the b550-Aorus-Pro wiki!<br><br>
 
 
 * Motherboard: Gigabyte B550 Aorus Pro | rev. 1.0
-* Bios: F16c (Mar 22, 2023)
+* Bios: F16g (Sep 20, 2023)
 * Major vulnerabilities updates, customers are strongly encouraged to update to this release at the earliest. Credits to "Assaf Carlsbad and Itai Liba from * SentinelOne" • Introduce capsule BIOS support starting this version.
-* CPU: Ryzen 7 3700x
-* GPU: Sapphire RX5500 XT
-* RAM: 32 GB 3200
-* Festplatte: M2 1TB
+* CPU: Ryzen 7 5800X3D
+* GPU: Merc 319 Black RX 6950 XT XFX
+* RAM: 32 GB 3600
+* Festplatte: M2 2x2TB
 * Audio Device: ALC 1220
 * SMBIOS: ~~iMacPro 1.1~~ macPro7.1
 
 
-Hello, everyone, I finally got my system (Ryzen3700x, B550AorusPro, RX5500XT) up and running - everything works, including (Sound,Bluetooth,CPU_Temp,etc). For all who are not so patient I provide my debug-EFI. Who still has tips and optimizations, can share them with me, especially regarding USB-mapping. So, now have fun!
+Hello, everyone, I finally got my upgraded system up and running - everything works, including (Sound,Bluetooth,CPU_Temp,etc). For all who are not so patient I provide my debug-EFI. Who still has tips and optimizations, can share them with me, especially regarding USB-mapping. So, now have fun!
+
+My GPU works with "SSDT-6950XT-SPOOF" and WG.kext.
 
 Best regards Fooose
 
