@@ -25,7 +25,7 @@ LAN-Fix-Realtek® 2.5GbE LAN : open Terminal: "sudo ifconfig en0 media 1000baseT
 Thanks DSM2!
 ~~Update to LucyRTL8125Ethernet.kext Vers.(1.1.0d8) -->lan fix~~ no longer required.
 
-Bios: F15 Unfortunately, sleep does not work for me with all versions after F12.
+Sleep works with SSDT. Thanks to @atanvarno.
 
 Major settings to be changed based on the default optimal settings:
 
