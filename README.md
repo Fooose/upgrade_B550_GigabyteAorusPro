@@ -1,11 +1,11 @@
 Welcome to the b550-Aorus-Pro wiki!<br><br>
-**Update: 2023/18/12**
+**Update: 2024/15/04**
 
 ![B550 Aorus Pro](https://royjonesmusic.home-webserver.de/opencore/B550.png)
 
 
 * Motherboard: Gigabyte B550 Aorus Pro | rev. 1.0
-* Bios: F16g (Sep 20, 2023)
+* Bios: F17 (Mar 27, 2024)
 * Major vulnerabilities updates, customers are strongly encouraged to update to this release at the earliest. Credits to "Assaf Carlsbad and Itai Liba from * SentinelOne" • Introduce capsule BIOS support starting this version.
 * CPU: Ryzen 7 5800X3D
 * GPU: Merc 319 Black RX 6950 XT XFX
