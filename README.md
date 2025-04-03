@@ -45,4 +45,4 @@ Major settings to be changed based on the default optimal settings:
 * BIOS → Advanced Mode → Settings → Re-Size BAR Support, choose “Auto” (from version OC 0.7.5)
 * ~~USB declared via DSDT by https://www.hackintosh-forum.de/user/34281-apfelnico/ (from version OC 0.7.5)~~ until OC 0.8.4
 * USB via SSDT (SSDT-B550-PTXH-TO-XHC2, SSDT-B550-XHC0-TO-XHC) defines.(vers. OC 0.8.5)
-* GPU (RX 69590 XT) via NootRX (vers. OC 1.0.5)
+* GPU (RX 6950 XT) via NootRX (vers. OC 1.0.5)
