@@ -1,10 +1,10 @@
 Welcome to the b550-Aorus-Pro wiki!<br><br>
-**Update: 2026/11/10 – OpenCore 1.0.8 · macOS Tahoe 26.7.3**
-
+**Update: 2026/11/10 – OpenCore 1.0.8 · macOS Tahoe 26.7.3 · Sleep fix**
+  
 ![B550 Aorus Pro](https://static.gigabyte.com/StaticFile/Image/Global/32e48fbb5b276a211279763bfab3d835/ProductRemoveBg/25268/webp/800)
 
 * Motherboard: Gigabyte B550 Aorus Pro | rev. 1.0
-* Bios: F17 (Mar 27, 2024)
+* Bios: F18g 
 * CPU: Ryzen 7 5800X3D
 * GPU: Merc 319 Black RX 6950 XT XFX
 * RAM: 32 GB 3600
@@ -32,7 +32,7 @@ Best regards Fooose
 * Tahoe reboot loop fixed with AMD_Vanilla patch PR#215 (thread_invoke, Darwin 25.4+).
 * **PlatformInfo is empty** – generate your own SMBIOS (MacPro7,1) with GenSMBIOS before booting.
 
-Sleep works with SSDT. Thanks to @atanvarno.
+Sleep works with one ACPI patch (_PRW to XPRW, DSDT only) – see the latest release.
 
 LAN: ~~"sudo ifconfig en0 media 1000baseT mediaopt full-duplex" (thanks DSM2!) / LucyRTL8125Ethernet 1.1.0d8 lan fix~~ no longer required.
 
